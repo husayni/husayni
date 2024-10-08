@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m Syed Hussain!
 
-🚀 Senior Software Engineer with a passion for building scalable and efficient Machine Learning solutions. Over the last 4+ years, I’ve specialized in combining my expertise in Software Engineering and AI to create cutting-edge applications, solve real-world problems, and optimize systems for maximum impact.
+🚀 Senior ML Engineer with a passion for building scalable and efficient Machine Learning solutions. Over the last 4+ years, I’ve specialized in combining my expertise in Software Engineering and AI to create cutting-edge applications, solve real-world problems, and optimize systems for maximum impact.
 
 💡 What I Do
 
