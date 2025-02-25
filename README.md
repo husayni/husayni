@@ -59,7 +59,7 @@ I’m always open to collaboration, whether it’s discussing AI, MLOps, or just
 
 
  -->
-I am an MSc Artificial Intelligence candidate at Cardiff University with 4 years of professional experience in Machine Learning. My background lies primarily in developing AI systems that utilize Computer Vision models and, building LLM-based Agents. I am also proficient in PyTorch, Docker, and cloud platforms such as AWS and Azure. 
+I am an MSc Artificial Intelligence candidate at Cardiff University with 4+ years of professional experience in Machine Learning. My background lies primarily in developing AI systems that utilize Computer Vision models and, building LLM-based Agents. I am also proficient in PyTorch, Docker, and cloud platforms such as AWS and Azure. 
 
 Few Projects I have built include:
 - Coding agent using Opensource LLMs (LLama3, Mistral)
