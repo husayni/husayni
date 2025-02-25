@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 👋 Hi, I’m Syed Hussain!
 
 🚀 Senior ML Engineer with a passion for building scalable and efficient Machine Learning solutions. Over the last 4+ years, I’ve specialized in combining my expertise in Software Engineering and AI to create cutting-edge applications, solve real-world problems, and optimize systems for maximum impact.
@@ -50,6 +50,26 @@ Here’s what’s always in my toolbox:
 I’m currently pursuing a Master’s in Artificial Intelligence at Cardiff University, where I’m diving deeper into the world of AI research, including cybersecurity and intrusion detection systems for in-vehicle networks.
 
 📫 Let’s Connect!
+
+I’m always open to collaboration, whether it’s discussing AI, MLOps, or just exploring new ideas in tech! Feel free to reach out or connect with me:
+
+	•	Email: hussainsyed.dev@gmail.com
+	•	LinkedIn: linkedin.com/in/syehussain
+
+
+
+ -->
+I am an MSc Artificial Intelligence candidate at Cardiff University with 4 years of professional experience in Machine Learning. My background lies primarily in developing AI systems that utilize Computer Vision models and, building LLM-based Agents. I am also proficient in PyTorch, Docker, and cloud platforms such as AWS and Azure. 
+
+Few Projects I have built include:
+- Coding agent using Opensource LLMs (LLama3, Mistral)
+- Finetuning Llama3 for code generation tasks (using UnSloth)
+- Real-time Multi Camera Sports Car Tracking System (YOLO, KNN, ResNet)
+- Analyzing Vitiligo Progression overtime (using image processing, and YOLO)
+
+Research Interests:
+
+I am particularly interested in Explainability and Interpretability in AI, Long-Term Memory and Contextualization in LLMs, and Multi-Modal AI.
 
 I’m always open to collaboration, whether it’s discussing AI, MLOps, or just exploring new ideas in tech! Feel free to reach out or connect with me:
 
