@@ -73,5 +73,5 @@ I am particularly interested in Explainability and Interpretability in AI, Long-
 
 I’m always open to collaboration, whether it’s discussing AI, MLOps, or just exploring new ideas in tech! Feel free to reach out or connect with me:
 
-	•	Email: hussainsyed.dev@gmail.com
-	•	LinkedIn: linkedin.com/in/syehussain
+- Email: hussainsyed.dev@gmail.com
+- LinkedIn: linkedin.com/in/syehussain
