@@ -69,7 +69,7 @@ Few Projects I have built include:
 
 Research Interests:
 
-I am particularly interested in Explainability and Interpretability in AI, Long-Term Memory and Contextualization in LLMs, and Multi-Modal AI.
+I am particularly interested in Explainability and Interpretability in AI.
 
 I’m always open to collaboration, whether it’s discussing AI, MLOps, or just exploring new ideas in tech! Feel free to reach out or connect with me:
 
