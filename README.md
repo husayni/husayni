@@ -59,9 +59,12 @@ I’m always open to collaboration, whether it’s discussing AI, MLOps, or just
 
 
  -->
-I am an MSc Artificial Intelligence graduate from Cardiff University with 4+ years of professional experience in Machine Learning. My background lies primarily in developing AI systems that utilize Computer Vision models and, building LLM-based Agents. I am also proficient in PyTorch, Docker, and cloud platforms such as AWS and Azure. 
+I am an ML Engineer with 4+ years of professional experience, currently working at an AI Technical Compliance startup in the Healthcare industry. My background lies primarily in developing AI systems that utilize Computer Vision models and building LLM-based Agents. I am also proficient in PyTorch, Docker, and cloud platforms such as AWS and Azure.
 
-Currently I am a Research Fellow at [SPAR](https://sparai.org/) where I am investigating techniques to analyse gaps between stated model preferences and actual behavioural patterns
+Alongside this, I am a **Research Fellow at [SPAR](https://sparai.org/)**, where I investigate techniques to analyse gaps between stated model preferences and actual behavioural patterns. I hold an MSc in Artificial Intelligence from Cardiff University.
+
+Our paper, [*How Elicitation Protocols Shape the Stated–Revealed Preference Gap in Language Models*](https://arxiv.org/abs/2601.21975), has been accepted at **TAIS 2026** and the **ACL EvalEval Workshop**! 🎉
+
 
 Few Projects I have built include:
 - Coding agent using Opensource LLMs
